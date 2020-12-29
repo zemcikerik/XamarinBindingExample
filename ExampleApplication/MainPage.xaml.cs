@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using ExampleApplication.Model;
 using Xamarin.Forms;
 
 namespace ExampleApplication
